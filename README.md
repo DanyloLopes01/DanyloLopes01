@@ -1,6 +1,6 @@
 ## Sobre mim ✌🏽
 
-    Olá! Eu sou o Danylo Torres, sou apaixonado por tecnologia, estou sempre buscando aprender mais sobre a tecnologia para desenvolver minhas habilidades em busca de aprender cada vez mais na área de tecnologia.
+Olá! Eu sou o Danylo Torres, sou apaixonado por tecnologia, estou sempre buscando aprender mais sobre a tecnologia para desenvolver minhas habilidades em busca de aprender cada vez mais na área de tecnologia.
 
 
 ### 🖥️ Tecnologias e ferramentas do meu dia a dia 

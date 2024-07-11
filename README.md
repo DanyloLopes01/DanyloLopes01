@@ -14,5 +14,5 @@ Olá! Eu sou o Danylo Torres, sou apaixonado por tecnologia, estou sempre buscan
 
 ## 💬 Redes Sociais
  [![Linkedin.in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danylo-lopes-torres-510825300/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.danylolopestorres@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danylolopestorres@gmail.com)
 

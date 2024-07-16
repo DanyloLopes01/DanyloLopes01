@@ -15,7 +15,9 @@
 
 ## 💬 Redes Sociais
  [![Linkedin.in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danylo-lopes-torres-510825300/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.danylolopestorres@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danylolopestorres@gmail.com)
+
+
 
 
 <img alt="Imagem" src="https://github.com/user-attachments/assets/8f013329-f84c-4433-8bfa-a596d6b220ab" height="250">

@@ -1,7 +1,7 @@
 
 <h1> Sobre mim ✌🏽 </h1>
 
- Olá! Eu sou o Danylo Torres, sou apaixonado por tecnologia, estou sempre buscando aprender mais sobre a tecnologia para desenvolver minhas habilidades em busca de aprender cada vez mais na área de tecnologia.
+ Olá! Me chamo Danylo Lopes Torres, sou estudante de Sistemas de Informação (3º semestre) e atuo como Analista de Testes. Tenho experiência com testes de software em aplicações web e APIs, incluindo elaboração de cenários, registro de bugs e evidências
 
 <div>
  
@@ -11,6 +11,8 @@
   [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
   [![Git](https://img.shields.io/badge/Git-D14D28?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
   [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
 
   
 </div>
